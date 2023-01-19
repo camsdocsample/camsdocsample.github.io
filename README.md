@@ -12,11 +12,11 @@ This beginner level tutorial teaches readers how to navigate and use aText's int
 ---
 # Table of Contents
 
-[Overview](#Overview) <br/>
-[Groups](#Groups) <br/>
-[Snippets](#Snippets) <br/>
+[Overview](#overview) <br/>
+[Groups](#groups) <br/>
+[Snippets](#snippets) <br/>
 [Insert elements](#insert-elements) <br/>
-[Back up aText data](#back-up-aText-data) <br/>
+[Back up aText data](#back-up-atext-data) <br/>
 
 ---
 # Overview
@@ -24,7 +24,7 @@ The default aText interface is shown below. <br/>
 
 ![aText main screen](img/00-main-screen.png) <br/>
 _**Tip:** aText also allows for toolbar customization and includes a visibility toggle for a more simplified view of the workspace._ 
-<br/> <br/> 
+<br/>
 
 **Main Functions**<br/> 
 ![New Snippet icon](img/01-new-snippet.png) &nbsp;&nbsp;&nbsp; Create a **New** Snippet <br/>
@@ -47,11 +47,11 @@ Format Snippet contents with the Rich Text Editor toolbar<br/>
 Left: Panel for Groups and Snippets<br/> 
 Right: Panel for Group Settings and Snippet Content Editor<br/>
 ![Screenshot of main screen panels](img/04-panels.png)
-<br/><br/> 
+<br/>
 
 **Group settings view:**<br/>
 ![Screenshot of default group settings](img/01-group-settings-view.png)
-<br/><br/> 
+<br/>
 
 **Snippet editor view:**<br/>
 ![Screenshot of defaultSnippet editor view](img/02-snippet-editor-view.png)
@@ -63,7 +63,7 @@ Right: Panel for Group Settings and Snippet Content Editor<br/>
 ---
 # Groups
 
-In order to create a Snippet, a user must first create a Group. Groups allow the user to compile, organize, and manage Snippets. While individual Snippets cannot adhere to specific text expansion settings, different Groups can have different text expansion settings.
+In order to create a Snippet, a user must first create a Group. Groups allow the user to compile, organize, and manage Snippets. While individual Snippets cannot adhere to specific text expansion settings, different Groups can have different text expansion settings. <br/>
 
 **Create a new Group**<br/>
 1. Click **New Group** ![New group Icon](img/02-new-group.png)
@@ -72,12 +72,10 @@ In order to create a Snippet, a user must first create a Group. Groups allow the
 
 3. Adjust the text expansion settings as needed or take no additional action to accept default settings
 
-<br/>
 
 ### Move, sort, and delete Groups
 Multiple Groups can be arranged manually or alphabetically by using the **Sort** ![Sort icon](img/05-sort.png) function. Groups cannot be nested in other Groups. 
 
-<br/>
 
 **Move an entire Group manually**<br/>
 1. Click the folder ![Folder icon](img/_folder-icon.png) next to the Group that will be moved
@@ -115,18 +113,19 @@ Click **Sort** ![Sort icon](img/05-sort.png) > Select “**Sort Groups alphabeti
 5. Click **Delete** ![Delete icon](img/03-delete.png) 
    
 6. Choose “**Delete**” on the popup warning
-<br/><br/>
+
+<br/>
 
 [Back to top](#table-of-contents)
 
 ---
 # Snippets
 Snippets are the primary function of aText and support a significant amount of customization. Users can tailor snippets with static text, custom fields, automations, or various combinations of each.
+
 <br/>
 
 >**Note:** A Snippet cannot exist outside of a Group. If there are no Groups when the user chooses to create a new Snippet, a new Group will automatically be generated for the Snippet.
 
-<br/>
 
 **Create a new Snippet** <br/>
 1. Click **New** ![New Snippet icon](img/01-new-snippet.png)
@@ -150,7 +149,7 @@ _**Optional:**_ <br/>
 ![Screenshot of abbreviation settings](img/01-abbreviation-settings.png)<br/><br/>
 If a Snippet’s abbreviation is left blank, there will be no way to access the content of the Snippet in a text editor and ultimately disables the specific Snippet.<br/><br/>
 If a Snippet’s abbreviation is a duplicate of an existing abbreviation, each duplicated name will appear in a selection box when activated (however, the content of a Snippet can be repeatedly duplicated without issue).<br/><br/>
- ![Duplicate Snippet screen demo](img/02-dupe-snippet-demo.gif) <br/>
+ ![Duplicate Snippet screen demo](img/02-dupe-snippet-demo.gif) <br/><br/>
 In the Group/Snippet Panel, duplicate Snippet abbreviations are denoted in orange. <br/> 
 ![Screenshot of orange duplicate Snippets in aText](img/03-dupe-snippets.png)
  
@@ -159,7 +158,6 @@ In the Group/Snippet Panel, duplicate Snippet abbreviations are denoted in orang
 ### Move, sort, and delete Snippets
 Like Groups, Snippets can be moved manually. However, there are additional sorting options that can be used to manage Snippets via the **Sort** ![Sort icon](img/05-sort.png) function.
 
-<br/>
 
 **Move a single Snippet manually:** <br/> 
 1. Click and hold the Snippet in the Group/Snippet Panel
@@ -170,11 +168,9 @@ Like Groups, Snippets can be moved manually. However, there are additional sorti
 
 4. Release the hold 
 
-<br/>
-
 _**Tip:** When moving a Snippet into another Group, hold the Snippet over the Group title or folder ![Folder icon](img/_folder-icon.png) for about 2 seconds to auto-expand the Group contents. Once placed, the Snippet will adhere to that Group’s expansion settings._
 
-<br/> <br/> 
+<br/>
 
 **Sort all Snippets:**
 
@@ -189,6 +185,7 @@ Click **Sort** ![Sort icon](img/05-sort.png) > Select desired sorting method <br
 2. Click **Delete** ![Delete icon](img/03-delete.png)
 
 3. Choose “**Delete**” on the popup warning
+
 <br/>
 
 **Delete multiple Snippets at once:** <br/> 
@@ -211,6 +208,8 @@ Click **Sort** ![Sort icon](img/05-sort.png) > Select desired sorting method <br
 ---
 # Insert elements
 Users may desire to add additional custom fields or automations to a Snippet in order to maximize its output. Elements from the "**Insert**" menu can either be used as standalone Snippets or to enhance Snippets with static content.
+
+<br/>
 
 **Add an automated or editable element to a Snippet:** <br/> 
 1. Create a new Snippet or open an existing Snippet
@@ -246,12 +245,10 @@ Users may desire to add additional custom fields or automations to a Snippet in 
 
 >**Note:** Hyperlinking is only available when the Snippet’s content setting is set to “**Formatted text, picture**”.
 
-<br/> 
   
 ### Change the settings of an inserted element
 Nearly each element has variables that can be adjusted to customize what the user needs from a particular Snippet. These settings can be accessed by double clicking on the element’s blue bubble in the content box. 
 
-<br/>
 
 **Snippet content with an element added:**<br/> 
 ![Screenshot of a Snippet with a time automation added](img/02-element-example.png)
@@ -264,26 +261,24 @@ Nearly each element has variables that can be adjusted to customize what the use
 **Text expansion preview:**<br/>
 ![Screenshot of the current time automatically applied to expanded text](img/04-snippet-preview.png)
 
-<br/>
   
 ### Insert multiple elements in one Snippet 
 Snippets can be designed to include editable fields within static content. These elements can be included in tandem with automated expanders like time, date, or another Snippet. <br/> 
 
 The example below demonstrates how a user might use the "**Time**", several variations of the "**Field**", and "**Cursor**" options to create a simple form. 
 
-<br/>
 
 **Snippet content with several elements added:**<br/> 
 ![Screenshot of a form template composed of five elements in one Snippet](img/01-several-elements-in-snippet.png)
-<br/><br/>  
+<br/>
 
 **Text expansion preview:**<br/> 
 ![Screenshot of edit screen that appears when the Snippet is activated](img/02-field-edit-screen.png)
-<br/><br/> 
+<br/>
 
 **Elements filled out within expansion:**<br/> 
 ![Screenshot of the previous screen with information filled in](img/03-filled-out-field-edit-screen.png)
-<br/><br/> 
+<br/>
 
 **Completed Snippet expansion result:**<br/> 
 ![Screenshot of the final text expander result](img/04-final-expansion.png)
@@ -296,34 +291,30 @@ The example below demonstrates how a user might use the "**Time**", several vari
 # Back up aText data
 As Snippets are added and customized, a user may wish to keep backups of their overall aText setup. Exporting and importing data also allows users to share their Snippets with others or receive Snippets others have created. 
 
+<br/>
+
 ### Export
-There are several ways to export aText data. The best method depends on what the user would like to save, as well as how the user may like to later import their data. 
+There are several ways to export aText data. The best option depends on what the user would like to save, as well as how the user may like to later import their data. 
 
-<br/>
+### Method 1: Save data as an `.atext` file
 
-### Save data as an `.atext` file
-
-<br/>
-
-**Backup from Data menu:**<br/> 
+**Create an `.atext` file from Data menu:**<br/> 
 Click **Data** ![Data actions icon](img/07-data-actions.png) > Select “**Backup**” or “**Backup to…**” to name the file and select a specific location 
 
-<br/> 
-
->**Note:** To access backup files, select “**"Restore…"**” from the **Data** ![Data actions icon](img/07-data-actions.png) menu. To change the default backup location, open aText’s **Preferences** ![aText Preferences icon](img/08-atext-preferences.png) and open the “**Backup**” tab.
+>**Note:** To access backup files, select “**Restore…**” from the **Data** ![Data actions icon](img/07-data-actions.png) menu. To change the default backup location, open aText’s **Preferences** ![aText Preferences icon](img/08-atext-preferences.png) and open the “**Backup**” tab.
 
 <br/>
 
-**Save data from the file menu:**<br/> 
+**Create an `.atext` file from the "**File**" menu:**<br/> 
 Click "**File**" > “**"Save…"**” to name and save the file to the desired location 
 
 <br/>
 
-### Save data as a Rich Text Format (RTF) document
+### Method 2: Save data as a Rich Text Format (RTF) document
 When aText data is saved as an RTF, a user will be able to see all Snippets from the selected Groups that were exported. This allows users to conduct a word or phrase search within the entirety of the Snippets. 
 <br/> <br/> 
 
-**Export all Groups to an RTF document**: <br/> 
+**Export all Groups as an RTF document**: <br/> 
 Click **Data** ![Data actions icon](img/07-data-actions.png) > Select "**Export All Groups to RTF document…**” to name and save the file to the desired location <br/>
 
 ⚠️ **Warning: RTF files cannot be imported back into aText unless done so manually.** ⚠️ 
@@ -344,12 +335,10 @@ Click **Data** ![Data actions icon](img/07-data-actions.png) > Select "**Export 
 
 7. Name and save the file to the desired location
 
-<br/>
 
 ### Import
 Another user may choose to share an `.atext` file with someone who would like to add the Snippets inside it to their own collection. This can be accomplished using one of two import methods.
 
-<br/>
 
 **Import from aText:**
 <br/> 
@@ -361,7 +350,7 @@ Another user may choose to share an `.atext` file with someone who would like to
 
 <br/>
 
-**Import directly from an aText file:**<br/> 
+**Import directly from an `.aText` file:**<br/> 
 Double click the `.atext` file > Determine whether to “**Import**” the file (add to existing data) or “**Restore**” the file (replace existing data)
 
 <br/>
