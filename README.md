@@ -120,11 +120,11 @@ Click **Sort** ![Sort icon](img/05-sort.png) > Select “**Sort Groups alphabeti
 
 ---
 # Snippets
-Snippets are the primary function of aText and support a significant amount of customization. Users can tailor snippets with static text, custom fields, automations, or various combinations of each.
+Snippets are the primary function of aText and support a significant amount of customization. Users can tailor snippets with Static text, custom fields, automations, or various combinations of each.
 
 <br/>
 
->**Note:** A Snippet cannot exist outside of a Group. If there are no Groups when the user chooses to create a new Snippet, a new Group will automatically be generated for the Snippet.
+>**Note:** A Snippet cannot exist outside of a Group. If there are no Groups when the user chooses to create a **New** ![New Snippet icon](img/01-new-snippet.png) Snippet, a new Group will automatically be generated for the Snippet.
 
 
 **Create a new Snippet** <br/>
@@ -145,7 +145,7 @@ _**Optional:**_ <br/>
 - Click the "**Preview**" button in the bottom right to see a demonstration of the Snippet
 <br/><br/>
 
->**Note:** The default sensitivity will be set to **"Case sensitive"** for each new Snippet. This can be adjusted in the Group’s settings.<br/>
+>**Note:** The default sensitivity will be set to "**Case sensitive**" for each new Snippet. This can be adjusted in the Group’s settings.<br/>
 ![Screenshot of abbreviation settings](img/01-abbreviation-settings.png)<br/><br/>
 If a Snippet’s abbreviation is left blank, there will be no way to access the content of the Snippet in a text editor and ultimately disables the specific Snippet.<br/><br/>
 If a Snippet’s abbreviation is a duplicate of an existing abbreviation, each duplicated name will appear in a selection box when activated (however, the content of a Snippet can be repeatedly duplicated without issue).<br/><br/>
@@ -254,7 +254,7 @@ Nearly each element has variables that can be adjusted to customize what the use
 ![Screenshot of a Snippet with a time automation added](img/02-element-example.png)
 <br/>   
 
-**Adjustable variables (shown here: the short format "**Time**" automation):**<br/> 
+**Adjustable variables (shown here: the short format "Time" automation):**<br/> 
 ![Screenshot of element settings open](img/03-element-settings.png)
 <br/> 
 
@@ -305,13 +305,13 @@ Click **Data** ![Data actions icon](img/07-data-actions.png) > Select “**Backu
 
 <br/>
 
-**Create an `.atext` file from the "**File**" menu:**<br/> 
-Click "**File**" > “**"Save…"**” to name and save the file to the desired location 
+**Create an `.atext` file from the "**File**" menu:** <br/> 
+Click "**File**" > “**Save…**” to name and save the file to the desired location 
 
 <br/>
 
 ### Method 2: Save data as a Rich Text Format (RTF) document
-When aText data is saved as an RTF, a user will be able to see all Snippets from the selected Groups that were exported. This allows users to conduct a word or phrase search within the entirety of the Snippets. 
+When aText data is saved as an RTF, a user will be able to see all Snippets from the selected Groups that were exported. This allows users to conduct a word or phrase count within the entirety of the Snippets. 
 <br/> <br/> 
 
 **Export all Groups as an RTF document**: <br/> 
@@ -339,6 +339,8 @@ Click **Data** ![Data actions icon](img/07-data-actions.png) > Select "**Export 
 ### Import
 Another user may choose to share an `.atext` file with someone who would like to add the Snippets inside it to their own collection. This can be accomplished using one of two import methods.
 
+⚠️ **Warning: Never accept or import files from unknown sources.** ⚠️ 
+<br/><br/> 
 
 **Import from aText:**
 <br/> 
