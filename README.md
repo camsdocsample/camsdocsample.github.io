@@ -4,7 +4,7 @@
 # About aText
 
 **What is aText?** <br/>
-aText is a text expander tool that lets users automate repetitive aspects of their work by turning frequently used text and images into "Snippets". Users can easily apply Snippets of any length inside a text box by typing a short, user-defined abbreviation. 
+aText is a text expander tool that lets users automate repetitive aspects of their work by turning frequently used text and images into "Snippets." Users can easily apply Snippets of any length inside a text box by typing a short, user-defined abbreviation. 
 
 **What will this tutorial cover?**<br/>
 This beginner level tutorial teaches readers how to navigate and use aText's interface and basic functions. 
@@ -78,7 +78,7 @@ Multiple Groups can be arranged manually or alphabetically by using the **Sort**
 
 
 **Move an entire Group manually**<br/>
-1. Click the folder ![Folder icon](img/_folder-icon.png) next to the Group that will be moved
+1. Click the folder ![Folder icon](img/folder-icon.png) next to the Group that will be moved
 
 2. Hold and drag the Group to the desired spot
 
@@ -93,7 +93,7 @@ Multiple Groups can be arranged manually or alphabetically by using the **Sort**
 Click **Sort** ![Sort icon](img/05-sort.png) > Select “**Sort Groups alphabetically**”
 
 **Delete a single Group:** <br/>
-1. Click the folder ![Folder icon](img/_folder-icon.png) or title of the Group to be deleted 
+1. Click the folder ![Folder icon](img/folder-icon.png) or title of the Group to be deleted 
 
 2. Click **Delete** ![Delete icon](img/03-delete.png) 
 
@@ -104,7 +104,7 @@ Click **Sort** ![Sort icon](img/05-sort.png) > Select “**Sort Groups alphabeti
 **Delete multiple Groups** <br/>
 1. Ensure that each Group to be deleted is sorted back-to-back
 
-2. Click the folder ![Folder icon](img/_folder-icon.png) or title of the top or bottom Group 
+2. Click the folder ![Folder icon](img/folder-icon.png) or title of the top or bottom Group 
 
 3. Hold shift and click on the additional Groups to be deleted
 
@@ -130,25 +130,24 @@ Snippets are the primary function of aText and support a significant amount of c
 **Create a new Snippet** <br/>
 1. Click **New** ![New Snippet icon](img/01-new-snippet.png)
 
-2. Create an abbreviation in the "**Abbreviation**" field to the right
+2. Assign an abbreviation to the Snippet in the "**Abbreviation**" field to the right
 
-3. Adjust the desired abbreviation settings by clicking on the up-down arrows ![Small up-down arrows icon](img/_up-down-arrows.png) to the far right
-
-4. Create the Snippet’s content in the content box
+3. Create the Snippet’s content in the content box
 
 _**Optional:**_ <br/>
 
-- Adjust the content type using the up-down arrows ![Small up-down arrows icon](img/_up-down-arrows.png) to the right of the "**Plain text**" selection
+- Adjust the content type using the up-down arrows ![Small up-down arrows icon](img/up-down-arrows.png) to the right of the "**Plain text**" selection
 
 - Apply desired formatting using the Rich Text Editor above or from the "**Format**" drop down menu below
 
-- Click the "**Preview**" button in the bottom right to see a demonstration of the Snippet
+- Click the "**Preview**" button at the bottom right to see a demonstration of the Snippet
 <br/><br/>
 
->**Note:** The default sensitivity will be set to "**Case sensitive**" for each new Snippet. This can be adjusted in the Group’s settings.<br/>
+>**Additional notes on Abbreviation behaviors:** The default sensitivity will be set to "**Case sensitive**" for each new Snippet. This can be adjusted for an individual Snippet by clicking the up-down arrows ![Small up-down arrows icon](img/up-down-arrows.png) next to the "**Abbreviation**" field.<br/>
 ![Screenshot of abbreviation settings](img/01-abbreviation-settings.png)<br/><br/>
-If a Snippet’s abbreviation is left blank, there will be no way to access the content of the Snippet in a text editor and ultimately disables the specific Snippet.<br/><br/>
-If a Snippet’s abbreviation is a duplicate of an existing abbreviation, each duplicated name will appear in a selection box when activated (however, the content of a Snippet can be repeatedly duplicated without issue).<br/><br/>
+Alternatively, this setting can be adjusted for an entire Group by opening the Group's settings and choosing a sensitivity option under "**Default Abbreviation case sensitivity**". Changing this Group setting will only apply to new Snippets added to the Group; the original case sensitivity of any pre-existing Snippets in the Group will not be updated.<br/><br/>
+If a Snippet’s abbreviation is left blank, there will be no way to access the content of the Snippet in a text editor and ultimately deactivates the specific Snippet.<br/><br/>
+When a Snippet’s abbreviation is a duplicate of an existing abbreviation, each duplicated name will appear in a selection box when activated (however, the content of a Snippet can be repeatedly duplicated without issue).<br/><br/>
  ![Duplicate Snippet screen demo](img/02-dupe-snippet-demo.gif) <br/><br/>
 In the Group/Snippet Panel, duplicate Snippet abbreviations are denoted in orange. <br/> 
 ![Screenshot of orange duplicate Snippets in aText](img/03-dupe-snippets.png)
@@ -168,7 +167,7 @@ Like Groups, Snippets can be moved manually. However, there are additional sorti
 
 4. Release the hold 
 
-_**Tip:** When moving a Snippet into another Group, hold the Snippet over the Group title or folder ![Folder icon](img/_folder-icon.png) for about 2 seconds to auto-expand the Group contents. Once placed, the Snippet will adhere to that Group’s expansion settings._
+_**Tip:** When moving a Snippet into another Group, hold the Snippet over the Group title or folder ![Folder icon](img/folder-icon.png) for about 2 seconds to auto-expand the Group contents. Once placed, the Snippet will adhere to that Group’s expansion settings._
 
 <br/>
 
